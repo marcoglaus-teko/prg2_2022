@@ -1,4 +1,4 @@
-package ch.teko.prg2.tag02.input.demoEnum;
+package ch.teko.prg2.tag03.input.demoEnum;
 
 public enum Colors {
     RED, BLUE, GREEN, WHITE

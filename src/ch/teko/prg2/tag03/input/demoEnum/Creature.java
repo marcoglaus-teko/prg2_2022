@@ -1,4 +1,4 @@
-package ch.teko.prg2.tag02.input.demoEnum;
+package ch.teko.prg2.tag03.input.demoEnum;
 
 public enum Creature {
     SNAKE(0), LIZARD(4), FISH(0), SPIDER(8), INSECT(6);

@@ -1,6 +1,7 @@
-package ch.teko.prg2.tag02.input.demoInterface;
+package ch.teko.prg2.tag03.input.demoInterface;
 
 /**
+ * Interface for simple arithmetic operations.
  * @author Marco Glaus jun.
  * @version 1.0.1
  */

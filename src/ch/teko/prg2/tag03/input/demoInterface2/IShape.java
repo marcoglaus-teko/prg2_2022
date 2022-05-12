@@ -1,4 +1,4 @@
-package ch.teko.prg2.tag02.input.demoInterface2;
+package ch.teko.prg2.tag03.input.demoInterface2;
 
 import java.sql.Timestamp;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package ch.teko.prg2.tag02.input.demoInterface;
+package ch.teko.prg2.tag03.input.demoInterface;
 
 public class Calculator implements IArithmeticOperations {
 

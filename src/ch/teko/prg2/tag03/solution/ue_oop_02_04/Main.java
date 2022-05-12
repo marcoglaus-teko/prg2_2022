@@ -1,4 +1,4 @@
-package ch.teko.prg2.tag02.input.ue_oop_02_04;
+package ch.teko.prg2.tag03.solution.ue_oop_02_04;
 
 public class Main {
     public static void main(String[] args) {
